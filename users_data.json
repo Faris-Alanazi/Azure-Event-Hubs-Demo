@@ -1,1 +1,20 @@
-{"user_id": 123, "user_name": "Anas"}
+[
+    {
+        "username": "johndoe",
+        "pickup_location": "100 Main St, Metropolis",
+        "delivery_location": "200 Elm St, Gotham",
+        "date": "2024-01-01"
+    },
+    {
+        "username": "janedoe",
+        "pickup_location": "300 Oak St, Star City",
+        "delivery_location": "400 Pine St, Central City",
+        "date": "2024-01-02"
+    },
+    {
+        "username": "mikesmith",
+        "pickup_location": "500 Cedar St, Keystone",
+        "delivery_location": "600 Maple St, Coast City",
+        "date": "2024-01-03"
+    }
+]
